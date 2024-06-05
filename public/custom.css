@@ -1,0 +1,4 @@
+.disabled > .form-control {
+    background-color: #e9ecef;
+    opacity: 1;
+}
